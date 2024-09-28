@@ -1,4 +1,4 @@
-# QuickCertify - Certificate Generator & Verifier
+# Certificate Generator & Verifier
 A web-based application that allows users to generate and verify certificates seamlessly. Built using the MERN Stack (MongoDB, Express.js, React, and Node.js), the application includes features like certificate generation with custom inputs, QR code verification, and downloadable PDF certificates.
 
 
