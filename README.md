@@ -4,24 +4,22 @@ A web-based application that allows users to generate and verify certificates se
 
 ## Features
 
-- User authentication for employers and job seekers.
-- Real-time job posting updates.
-- Advanced search filters for job listings.
-- Employer dashboard for job management.
-- Candidate profile management for job seekers.
-- Responsive design for optimal user experience on all devices.
+- Certificate Generation
+- QR Code Verification
+- PDF Download
+- Responsive Design
 
 ## Tech Stack
 
 ### Frontend
 - React.js
 - Tailwind CSS
-- Vite Shadcn-ui
+- QRCode.react
+- html2canvas & jsPDF
 
 ### Backend
 - Node.js
 - Express.js
 - MongoDB
-- Postman
 
  
